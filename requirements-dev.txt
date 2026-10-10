@@ -1,0 +1,8 @@
+# Poste de travail complet : dashboard + notebook d'analyse
+-r requirements.txt
+matplotlib>=3.8
+seaborn>=0.13
+scipy>=1.11
+jupyter
+nbconvert
+ipykernel

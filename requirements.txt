@@ -1,0 +1,6 @@
+# Dépendances DU DASHBOARD uniquement (lues par Streamlit Community Cloud).
+# Pour le notebook et le développement : requirements-dev.txt
+streamlit>=1.57
+pandas>=2.2
+numpy>=1.26
+plotly>=5.24
